@@ -1,0 +1,14 @@
+body{
+    font-family: 'SuperMario256', serif;
+}
+
+p{
+    font-size:20px;
+}
+
+@font-face {
+    font-family: "SuperMario256";
+    src: url("../fonts/SuperMario256.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
